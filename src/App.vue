@@ -57,7 +57,7 @@ export default {
 
       return `${day} ${date} ${month} ${year}`;
     }
-   }
+  }
 }
 </script>
 
